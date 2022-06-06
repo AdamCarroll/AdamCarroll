@@ -22,6 +22,8 @@ From time to time I blog, sharing ideas and things I've learned about technology
 * [Building a JavaFX Search Bar] - How the user interface for the VocabHunter search bar works with details of the use of ControlsFX in giving the bar a distinctive style.
 * [VocabHunter - A tool for learners of foreign languages] - An introduction to some of the technologies being used in VocabHunter.
 
+[![VocabHunter](/assets/VocabHunter-Technical-Articles.png)][VocabHunter Blog]
+
 [VocabHunter]:https://github.com/VocabHunter/VocabHunter
 [Santulator]:https://github.com/Santulator/Santulator
 
